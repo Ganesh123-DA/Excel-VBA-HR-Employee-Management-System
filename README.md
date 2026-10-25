@@ -16,13 +16,9 @@ The project combines employee forms, a centralized database, and a visual dashbo
 
 Watch the system in action.
 
-## 🎬 Project Demo
+<video src="./Macro-VBA%20Project%20(2).mp4" controls width="100%"></video>
 
-<video src="./Macro-VBA%20Project%20(2).mp4" controls width="100%">
-</video>
-
-
-**[▶ Watch or Download the Demo](https://github.com/Ganesh123-DA/Excel-VBA-HR-Employee-Management-System/releases/download/v1.0/Macro-VBA.Project.WOP.mp4)**
+**[▶ Open or Download the Demo](./Macro-VBA%20Project%20%282%29.mp4)**
 
 ## ✨ Key Features
 
@@ -58,13 +54,21 @@ These metrics describe the current dataset. They do not independently explain em
 
 ## 🧠 Skills Demonstrated
 
-* VBA macro automation
+* VBA macro development and debugging
 * CRUD operations
 * Form-based data entry
 * Employee record management
 * KPI development
 * Data visualization
 * Worksheet navigation
+* AI-assisted development using ChatGPT
+* Testing and refining VBA code with ChatGPT assistance
+
+## 🤖 AI Assistance
+
+ChatGPT was used to assist with VBA code development, debugging, and improving macro functionality.
+
+The workbook was customized for the project's requirements.
 
 ## 🚀 How to Use
 
