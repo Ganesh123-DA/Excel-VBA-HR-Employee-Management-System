@@ -16,7 +16,11 @@ The project combines employee forms, a centralized database, and a visual dashbo
 
 Watch the system in action.
 
-<video src="Macro-VBA%20Project%20(2).mp4" controls width="100%"></video>
+## 🎬 Project Demo
+
+<video src="./Macro-VBA%20Project%20(2).mp4" controls width="100%">
+</video>
+
 
 **[▶ Watch or Download the Demo](https://github.com/Ganesh123-DA/Excel-VBA-HR-Employee-Management-System/releases/download/v1.0/Macro-VBA.Project.WOP.mp4)**
 
