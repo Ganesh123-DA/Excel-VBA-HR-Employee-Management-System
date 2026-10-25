@@ -4,8 +4,7 @@ An Excel VBA-based HR Employee Management System designed to simplify employee r
 
 ## Dashboard Preview
 
-![HR Employee Management System Dashboard](HR-Employee-Management-Dashboard.png)
-
+![HR Employee Management System Dashboard](Macro-VBA-Project-Image.png)
 
 ## Project Overview
 
